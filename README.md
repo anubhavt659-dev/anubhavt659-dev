@@ -12,7 +12,7 @@
 
 ### Tech
 
-`java` `c` `html` `css` `git` `github`
+`java` `c` `html` `css` 
 
 ---
 
