@@ -26,4 +26,4 @@
 
 ### Contact
 
-link- LinkedIn: www.linkedin.com/in/anubhav-1b3608319
+LinkedIn: www.linkedin.com/in/anubhav-1b3608319
