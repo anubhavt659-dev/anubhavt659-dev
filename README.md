@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hello there
 
-<!--
-**anubhavt659-dev/anubhavt659-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Developer focused on learning, building, and contributing to Open Source.
 
-Here are some ideas to get you started:
+- Working with `.java` `.c` `.html` `.css`
+- Exploring Open Source contribution workflows
+- Interested in backend development and clean web interfaces
+- Building projects while improving problem-solving skills
+- Learning collaborative development using Git and GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech
+
+`java` `c` `html` `css` `git` `github`
+
+---
+
+### Currently
+
+- Building small projects
+- Strengthening core programming fundamentals
+- Learning how real-world projects are structured and maintained
+
+---
+
+### Contact
+
+link- LinkedIn: www.linkedin.com/in/anubhav-1b3608319
